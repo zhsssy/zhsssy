@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Compilation Principle,Operating System,Computer Graphics**
 
-- 👨‍💻 All of my projects are available at [github](github.com/zhsssy)
+- 👨‍💻 All of my projects are available at [github](https://github.com/zhsssy)
 
-- 📝 I regularly write articles on [blog](zhsssy.github.io)
+- 📝 I regularly write articles on [blog](https://zhsssy.github.io)
 
 - 📫 How to reach me **zhsssy13@gmail.com**
 
