@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm zhsssy</h1>
 <h3 align="left">A backend developer. Now studying in Nanchang University.</h3>
 
-- 🌱 I’m currently learning **Compilation Principle,Operating System**.
+- 🌱 I’m currently studying for an exam.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/zhsssy)
 
-- 📝 I regularly write articles on [blog](https://zhsssy.github.io)
+- 📝 I regularly write articles on [blog](https://home.howbeing.top)
 
 - 📫 How to reach me **zhsssy13@gmail.com**
 
