@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm zhsssy</h1>
+<h1 align="left">Hi 👋</h1>
 <h3 align="left">A backend developer. Now studying in Nanchang University.</h3>
 
 - 🌱 I’m currently studying for an exam.
