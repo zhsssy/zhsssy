@@ -1,5 +1,5 @@
 <h1 align="left">👋</h1>
-<h3 align="left">I'm a student. Now studying in Nanchang University.</h3>
+<h3 align="left">I'm a postgraduate student.</h3>
 
 - 🌱 At present, I am pursuing studies based purely on interest and passion.
 
